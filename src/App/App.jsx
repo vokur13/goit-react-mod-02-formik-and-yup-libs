@@ -10,8 +10,8 @@ export class App extends Component {
       <>
         <GlobalStyle />
         {/* <LoginForm /> */}
-        {/* <LoginFormFormik /> */}
-        <ProductReviewForm />
+        <LoginFormFormik />
+        {/* <ProductReviewForm /> */}
       </>
     );
   }
